@@ -1,5 +1,5 @@
 
-
+#play: act1party
 Once upon a time...
 
  * There were two choices.
