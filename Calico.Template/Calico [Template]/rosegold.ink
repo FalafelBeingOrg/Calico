@@ -22,7 +22,7 @@ hga
  
 - 
 - (help) u helped
-#frame: bedroom2_bg1:-10, bedroom2_fg1:10
+#frame: ship_1a:3, ship_1b:5
 
 - They lived happily ever after.
     -> END
