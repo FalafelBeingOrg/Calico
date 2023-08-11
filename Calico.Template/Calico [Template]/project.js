@@ -10,6 +10,10 @@ import "./patches/dragtoscroll.js";
 // convert markdown to HTML tags
 import "./patches/markdowntohtml.js"
 
+import "./patches/parallaxframes.js"
+
+import "./patches/audioplayer.js"
+
 // -----------------------------------
 
 // import helper patch for binding shortcuts to choices
