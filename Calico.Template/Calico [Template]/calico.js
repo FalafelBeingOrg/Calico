@@ -32,12 +32,12 @@ catch (e)
 var options = 
 {
 	// delay between removing an old passage, and showing the new passage
-	passagedelay: 200.0,
+	passagedelay: 1500.0,
 	// delay between each line. if set to 0, all text will appear at once
-	linedelay: 50.0,
+	linedelay: 2500.0,
 	// how long it takes for each line to fully appear
 	// for fade, usually mostly visible about 50-75% of the way through
-	showlength: 500.0,
+	showlength: 750.0,
 	// how long it takes for each line to fully fade out
 	hidelength: 600.0,
 	// how long we wait to make a choice clickable after it's fully rendered
