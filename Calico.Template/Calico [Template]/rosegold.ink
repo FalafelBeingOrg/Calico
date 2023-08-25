@@ -1,8 +1,8 @@
 #title: rosegold
 #author: Timothy Garnett
 #play: act1party
-image: stab wound
-Pain
+image: stab wound #red
+> Pain
 image: tear in an eye
 #clear
 -
@@ -27,16 +27,17 @@ Welcome #red
 Welcome to the underworld #red
 #clear
 -
-The boat rocks a little as the bird paddles across the wide river
+> The boat rocks a little as a bird paddles across the wide river
 #clear
-How was your journy here? #red 
+How was your journy here?
     * I was murdered by my friend
         I'm a bit bummed,
-        Really, #red
-        Never a happy story these days #red
+        Really,
+        Never a happy story these days
     * I dont wanna talk about it 
-        All good don't worry about a thing #red
-        #clear
+        All good don't worry about a thing
+-
+#clear
 -
 EXAMPLE AFTER CREDITS
 

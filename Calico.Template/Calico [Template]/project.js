@@ -1,5 +1,5 @@
 // -----------------------------------
-
+import "./patches/preload.js";
 // always attempt to break to a new line in a way that
 // preserves a minimum number of words per line
 import "./patches/minwordsperline.js";
@@ -17,7 +17,9 @@ import "./patches/audioplayer.js"
 
 // import helper patch for binding shortcuts to choices
 import choices from "./patches/shortcuts/choices.js";
-
+import "./patches/shorthandclasstags.js";
+// set which tags (and by extension CSS styles) to use
+options.shorthandclasstags_tags = ["red", "winter"];
 // bind the number keys to choices
 for (var i = 0; i < 9; i++)
 {
